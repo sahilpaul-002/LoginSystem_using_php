@@ -1,6 +1,5 @@
-# LoginSystem_using_php
+# 🔐 PHP Login System
 
-🔐 PHP Login System
 This project is a simple user authentication system built with PHP. It includes:
 
 ✨ Features
